@@ -43,7 +43,7 @@ Do it like a programmer. When everything is wrong and messed up, erase everythin
 <div>
 
 
-<a href = "mailto:kayusofc@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href = "mailto:kayusofc@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Telagram-D14836?style=for-the-badge&logo=telegram&logoColor=0d1117%20target=%22_blank"></a>
 
 
 </div>
