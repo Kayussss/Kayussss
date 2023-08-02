@@ -20,12 +20,12 @@ Do it like a programmer. When everything is wrong and messed up, erase everythin
     </div>
 
  
-### Studying in this moment:
+ Studying in this moment:
 ![java](https://img.shields.io/badge/-javaSCRIPT-0D1117?style=for-the-badge&logo=JAVASCRIPT&logoColor=FFFF33&labelColor=0D1117)&nbsp;
 
 
 
-## I am learning
+ I am learning
 
 <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40"/> <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40"/>
 <div>
