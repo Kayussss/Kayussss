@@ -1,4 +1,4 @@
-Faça como um programador. Quando tudo está errado e confuso, apague tudo e recomece do zero.
+Do it like a programmer. When everything is wrong and messed up, erase everything and start over from scratch.
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=kayussss&bg_color=0d1117&color=ffffffff&line=FFFFFFFF&point=39FF14&area=true&hide_border=true)](https://github.com/Kayussss/Kayussss)
 
@@ -32,7 +32,7 @@ Faça como um programador. Quando tudo está errado e confuso, apague tudo e rec
 <br>
 </div>
 
-## Estou aprendendo
+## I am learning
 
 <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40"/> <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40"/>
 
