@@ -11,15 +11,15 @@ Faça como um programador. Quando tudo está errado e confuso, apague tudo e rec
   <img width="80%" height="230px" src="https://github-readme-stats.vercel.app/api?username=kayussss&show_icons=true&count_private=true&hide_border=true&title_color=ffffffff&icon_color=66ff00&text_color=ffffffff&bg_color=0d1117" alt="kayuss github stats" /> 
 </div>
 
-<img height="180em"  align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kayussss&layout=compact&langs_count=7&theme=react" />
+<img height="160em"  align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kayussss&layout=compact&langs_count=7&theme=react" />
 
 </div>
  <br>
 <div  align="center"> 
   <div style="display: inline_block"><br>
-  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Rafa-Js" height="35" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="HTML" height="35" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="CSS" height="35" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
     
 </div>
  
