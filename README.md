@@ -9,6 +9,9 @@ Faça como um programador. Quando tudo está errado e confuso, apague tudo e rec
 <div align="center">  
   <img width="80%" height="230px" src="https://github-readme-stats.vercel.app/api?username=kayussss&show_icons=true&count_private=true&hide_border=true&title_color=ffffffff&icon_color=66ff00&text_color=ffffffff&bg_color=0d1117" alt="kayuss github stats" /> 
 </div>
+<div>
+<a href="https://github.com/kayussss">
+<img loading="lazy" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kayussss-aqui&layout=compact&langs_count=7&theme=dracula"/>
 
  <br>
 <div  align="center"> 
@@ -28,4 +31,17 @@ Faça como um programador. Quando tudo está errado e confuso, apague tudo e rec
 <br>
 </div>
 
-  ##
+## Estou aprendendo
+
+<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40"/> <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40"/>
+
+  <div>
+
+<div>
+
+<div>
+
+<a href="https://instagram.com/kayus.linux" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+<a href = "mailto:kayusofc@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+
+</div>
