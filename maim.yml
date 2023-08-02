@@ -29,11 +29,4 @@ versão do nó : 16
           build_dir : packages/demo/dist
         ambiente :
           GITHUB_TOKEN : ${{ segredos.MY_GITHUB_TOKEN_GH_PAGES }}
-
-           - kayussss : construir ação somente SVG
-        executar : |
-          yarn install --frozen-lockfile
-          npm run build:ação
-          rm -r svg-only/dist
-          mv packages/action/dist svg-only/dist
 	
