@@ -30,4 +30,4 @@ Faça como um programador. Quando tudo está errado e confuso, apague tudo e rec
 
   ##
 	
-![snake gif](https://github.com/Formandodev/Kayussss/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/Kayussss/Kayussss/blob/output/github-contribution-grid-snake.svg)
