@@ -22,9 +22,12 @@
 <div align="center"> 
 	
 <a href = "mailto:cmp.1a.kayusofc@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+
  </div>
-![HTML](&logo=HTML5&logoColor=1572B6&labelColor=0D1117)&nbsp;
-![SHELL SCRIPT]&logo=SHELL&logoColor=1572B6&labelColor=0D1117)&nbsp;
+ 
+![HTML](https://img.shields.io/badge/-HTML5-0D1117?style=for-the-badge&logo=HTML5&logoColor=1572B6&labelColor=0D1117)&nbsp;
+
+![SHELL SCRIPT](https://img.shields.io/badge/-SHELLSCRIPT-0D1117?style=for-the-badge&logo=SHELL&logoColor=1572B6&labelColor=0D1117)&nbsp;
 
 ### Studying in this moment:
 ![java](https://img.shields.io/badge/-javaSCRIPT-0D1117?style=for-the-badge&logo=JAVASCRIPT&logoColor=1572B6&labelColor=0D1117)&nbsp;
