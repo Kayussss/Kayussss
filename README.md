@@ -25,9 +25,12 @@ Do it like a programmer. When everything is wrong and messed up, erase everythin
 
 
 #### 𝘪 𝘢𝘮 𝘭𝘦𝘢𝘳𝘯𝘪𝘯𝘨
-<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40"/> <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40"/>
+<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40"/> 
+<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40"/>
 <div>
 
 ![java](https://img.shields.io/badge/-telegram-0D1117?style=for-the-badge&logo=telegram&logoColor=9900ff&labelColor=0D1117)&nbsp;
 ![java](https://img.shields.io/badge/-@Batmanzz22-0D1117?style=for-the-badge&logo=&logoColor=ffffffff&labelColor=0D1117)&nbsp;
+
+<img loading="lazy" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/ubuntu.svg" width="70" height="60"/>
 
