@@ -9,7 +9,9 @@ Faça como um programador. Quando tudo está errado e confuso, apague tudo e rec
 <div align="center">  
   <img width="80%" height="230px" src="https://github-readme-stats.vercel.app/api?username=kayussss&show_icons=true&count_private=true&hide_border=true&title_color=ffffffff&icon_color=66ff00&text_color=ffffffff&bg_color=0d1117" alt="kayuss github stats" /> 
 </div>
-<div>
+
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=kayussss&bg_color=0d1117&color=ffffffff&line=FFFFFFFF&point=39FF14&area=true&hide_border=true)](https://github.com/Kayussss/Kayussss)
 
 
  <br>
