@@ -1,7 +1,7 @@
 Faça como um programador. Quando tudo está errado e confuso, apague tudo e recomece do zero.
 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ffffffff&size=40&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+kayuss+;I'm+15+years+old;I'm+from+Brazil;I+Graduated+systems+Development;Be+Welcome!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ffffffff&size=40&center=true&vCenter=true&width=1100&lines=HELLO,+My+name+is+kayuss+;I'm+15+years+old;I'm+from+Brazil;I+Graduated+systems+Development;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=kayussss&bg_color=0d1117&color=ffffffff&line=FFFFFFFF&point=00FFFF&area=true&hide_border=true)](https://github.com/Kayussss/Kayussss)
