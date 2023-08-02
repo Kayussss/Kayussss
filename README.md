@@ -11,7 +11,7 @@ Faça como um programador. Quando tudo está errado e confuso, apague tudo e rec
 </div>
 <div>
 <a href="https://github.com/kayussss">
-<img loading="lazy" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kayussss-aqui&layout=compact&langs_count=7&theme=dracula"/>
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kayussss-aqui&layout=compact&langs_count=7&theme=dracula"/>
 
  <br>
 <div  align="center"> 
