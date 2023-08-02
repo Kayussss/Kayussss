@@ -14,7 +14,7 @@ Faça como um programador. Quando tudo está errado e confuso, apague tudo e rec
 
 <div align="center"> 
 	
-<a href = "mailto:cmp.1a.kayusofc@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href = "mailto:kayusofc@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 
  </div>
  
