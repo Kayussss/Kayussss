@@ -40,6 +40,4 @@ Do it like a programmer. When everything is wrong and messed up, erase everythin
 
 <div  align="center"> 
   <div style="display: inline_block"><br>
-  <img align="center" alt="Rafa-Js" height="35" width="40" src="https://img.shields.io/badge/-@Batmanzz22-0D1117?style=for-the-badge&logo=linux&logoColor=ffffffff&labelColor=0D1117)&nbsp;">
-  </div>
-
+  <img align="center" alt="Rafa-Js" height="35" width="40" src="https://img.shields.io/badge/-@Batmanzz22-0D1117?style=for-the-badge&logo=linux&logoColor=ffffffff&labelColor=0D1117)&nbsp;
