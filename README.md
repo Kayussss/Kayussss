@@ -36,4 +36,4 @@ Do it like a programmer. When everything is wrong and messed up, erase everythin
 <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40"/> <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40"/>
 <div>
 
-<img align="center" alt="HTML" height="35" width="40" src="https://img.shields.io/badge/-telegram-0D1117?style=for-the-badge&logo=telegram&logoColor=39FF14&labelColor=0D1117)&nbsp;">
+![telegram](https://img.shields.io/badge/-telegram-0D1117?style=for-the-badge&logo=telegram&logoColor=39FF14&labelColor=0D1117)&nbsp;
