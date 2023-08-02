@@ -11,9 +11,6 @@ Faça como um programador. Quando tudo está errado e confuso, apague tudo e rec
   <img width="80%" height="230px" src="https://github-readme-stats.vercel.app/api?username=kayussss&show_icons=true&count_private=true&hide_border=true&title_color=ffffffff&icon_color=66ff00&text_color=ffffffff&bg_color=0d1117" alt="kayuss github stats" /> 
 </div>
 
-<img height="160em"  align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kayussss&layout=compact&langs_count=7&theme=react" />
-
-</div>
  <br>
 <div  align="center"> 
   <div style="display: inline_block"><br>
