@@ -10,8 +10,7 @@ Faça como um programador. Quando tudo está errado e confuso, apague tudo e rec
   <img width="80%" height="230px" src="https://github-readme-stats.vercel.app/api?username=kayussss&show_icons=true&count_private=true&hide_border=true&title_color=ffffffff&icon_color=66ff00&text_color=ffffffff&bg_color=0d1117" alt="kayuss github stats" /> 
 </div>
 <div>
-<a href="https://github.com/kayussss">
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kayussss-aqui&layout=compact&langs_count=7&theme=dracula"/>
+
 
  <br>
 <div  align="center"> 
@@ -46,5 +45,3 @@ Faça como um programador. Quando tudo está errado e confuso, apague tudo e rec
 
 
 </div>
-
-![Snake animation](https://github.com/seu-usuário-aqui/seu-usuário-aqui/blob/output/github-contribution-grid-snake.svg)
