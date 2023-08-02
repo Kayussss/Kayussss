@@ -33,4 +33,4 @@ Do it like a programmer. When everything is wrong and messed up, erase everythin
 ![java](https://img.shields.io/badge/-@Batmanzz22-0D1117?style=for-the-badge&logo=&logoColor=ffffffff&labelColor=0D1117)&nbsp;
 
 <img loading="lazy" src="https://img.icons8.com/?size=512&id=101665&format=png" width="100" height="95"/>
-<img loading="lazy" src="https://www.blackhatethicalhacking.com/" width="100" height="95"/>
+<img loading="lazy" src="https://www.blackhatethicalhacking/" width="100" height="95"/>
