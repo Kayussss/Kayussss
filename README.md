@@ -16,14 +16,9 @@ Faça como um programador. Quando tudo está errado e confuso, apague tudo e rec
   <img align="center" alt="Rafa-Js" height="35" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="HTML" height="35" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="35" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+
+
  
-    
-</div>
-
-![HTML](https://img.shields.io/badge/-HTML5-0D1117?style=for-the-badge&logo=HTML5&logoColor=39FF14&labelColor=0D1117)&nbsp;
-
-![SHELL SCRIPT](https://img.shields.io/badge/-SHELLSCRIPT-0D1117?style=for-the-badge&logo=SHELL&logoColor=39FF14&labelColor=0D1117)&nbsp;
-
 ### Studying in this moment:
 ![java](https://img.shields.io/badge/-javaSCRIPT-0D1117?style=for-the-badge&logo=JAVASCRIPT&logoColor=39FF14&labelColor=0D1117)&nbsp;
 
