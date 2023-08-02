@@ -29,5 +29,3 @@ Faça como um programador. Quando tudo está errado e confuso, apague tudo e rec
 </div>
 
   ##
-	
-[snake gif](https://github.com/Kayussss/Kayussss/blob/output/github-contribution-grid-snake.svg)
