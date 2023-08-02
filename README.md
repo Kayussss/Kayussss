@@ -24,7 +24,11 @@ Do it like a programmer. When everything is wrong and messed up, erase everythin
 ![java](https://img.shields.io/badge/-javaSCRIPT-0D1117?style=for-the-badge&logo=JAVASCRIPT&logoColor=FFFF33&labelColor=0D1117)&nbsp;
 
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=Kayussss&left_color=green&right_color=red)
+<div align="center">
+<br><p align="centre"><b>Visitors Count</b></p>  
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{Kayussss}/count.svg" /></p> 
+<br>
+</div>
 
 
 ## I am learning
