@@ -26,7 +26,7 @@ Do it like a programmer. When everything is wrong and messed up, erase everythin
 
 <div align="center">
 <br><p align="centre"><b>Visitors Count</b></p>  
-<p align="center"><img align="center" src="https://<name-of-the-project>.glitch.me/pixel.svg" /></p> 
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/pixel.svg" /></p> 
 <br>
 </div>
 
