@@ -8,7 +8,7 @@ Faça como um programador. Quando tudo está errado e confuso, apague tudo e rec
 
 
 <div align="center">  
-  <img width="70%" height="210px" src="https://github-readme-stats.vercel.app/api?username=kayussss&show_icons=true&count_private=true&hide_border=true&title_color=ffffffff&icon_color=66ff00&text_color=ffffffff&bg_color=0d1117" alt="kayuss github stats" /> 
+  <img width="75%" height="210px" src="https://github-readme-stats.vercel.app/api?username=kayussss&show_icons=true&count_private=true&hide_border=true&title_color=ffffffff&icon_color=66ff00&text_color=ffffffff&bg_color=0d1117" alt="kayuss github stats" /> 
 </div>
 
 
