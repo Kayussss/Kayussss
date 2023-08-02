@@ -32,5 +32,5 @@ Do it like a programmer. When everything is wrong and messed up, erase everythin
 ![java](https://img.shields.io/badge/-telegram-0D1117?style=for-the-badge&logo=telegram&logoColor=9900ff&labelColor=0D1117)&nbsp;
 ![java](https://img.shields.io/badge/-@Batmanzz22-0D1117?style=for-the-badge&logo=&logoColor=ffffffff&labelColor=0D1117)&nbsp;
 
-<img loading="lazy" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/ubuntu.svg" width="70" height="60"/>
+<img loading="lazy" src="https://design.ubuntu.com/brand/ubuntu-logo/" width="70" height="60"/>
 
