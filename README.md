@@ -18,12 +18,12 @@ Faça como um programador. Quando tudo está errado e confuso, apague tudo e rec
 
  </div>
  
-![HTML](https://img.shields.io/badge/-HTML5-0D1117?style=for-the-badge&logo=HTML5&logoColor=1572B6&labelColor=0D1117)&nbsp;
+![HTML](https://img.shields.io/badge/-HTML5-0D1117?style=for-the-badge&logo=HTML5&logoColor=39FF14&labelColor=0D1117)&nbsp;
 
-![SHELL SCRIPT](https://img.shields.io/badge/-SHELLSCRIPT-0D1117?style=for-the-badge&logo=SHELL&logoColor=1572B6&labelColor=0D1117)&nbsp;
+![SHELL SCRIPT](https://img.shields.io/badge/-SHELLSCRIPT-0D1117?style=for-the-badge&logo=SHELL&logoColor=39FF14&labelColor=0D1117)&nbsp;
 
 ### Studying in this moment:
-![java](https://img.shields.io/badge/-javaSCRIPT-0D1117?style=for-the-badge&logo=JAVASCRIPT&logoColor=1572B6&labelColor=0D1117)&nbsp;
+![java](https://img.shields.io/badge/-javaSCRIPT-0D1117?style=for-the-badge&logo=JAVASCRIPT&logoColor=39FF14&labelColor=0D1117)&nbsp;
 
 <div align="center">
 <br><p align="centre"><b>Visitors Count</b></p>  
