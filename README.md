@@ -20,7 +20,7 @@ Do it like a programmer. When everything is wrong and messed up, erase everythin
     </div>
 
  
-# Studying in this moment:
+![](https://img.shields.io/badge/-Studying%20in%20this%20moment:-0D1117?style=for-the-badge&logo=&logoColor=39FF14&labelColor=0D1117)&nbsp;
 ![java](https://img.shields.io/badge/-javaSCRIPT-0D1117?style=for-the-badge&logo=JAVASCRIPT&logoColor=FFFF33&labelColor=0D1117)&nbsp;
 
 
