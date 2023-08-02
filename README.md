@@ -43,9 +43,6 @@ Do it like a programmer. When everything is wrong and messed up, erase everythin
 <div>
 
 
-<a href = "mailto:@Batmanzz22"><img loading="lazy" src="https://img.shields.io/badge/-telegram-0D1117?style=for-the-badge&logo=telegram&logoColor=ffffffff&labelColor=0D1117)&nbsp;"></a>
-
-
-</div>
+<a href = "mailto:@Batmanzz22"><img loading="lazy" src=https://img.shields.io/badge/-telegram-0D1117?style=for-the-badge&logo=telegram&logoColor=39FF14&labelColor=0D1117)&nbsp;
 
 
