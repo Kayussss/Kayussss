@@ -37,4 +37,6 @@ Do it like a programmer. When everything is wrong and messed up, erase everythin
 <div>
 
 ![java](https://img.shields.io/badge/-telegram-0D1117?style=for-the-badge&logo=telegram&logoColor=39FF14&labelColor=0D1117)&nbsp;
-## @Batmanzz22
+
+<div align="center">  
+  <img width="80%" height="230px" src="https://https://img.shields.io/badge/-@Batmanzz22-0D1117?style=for-the-badge&logo=linux&logoColor=ffffffff&labelColor=0D1117)&nbsp;
