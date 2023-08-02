@@ -46,4 +46,4 @@ Faça como um programador. Quando tudo está errado e confuso, apague tudo e rec
 
 </div>
 
-![Snake animation](https://github.com/seu-usuário-aqui/seu-usuário-aqui/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/Kayussss-aqui/Kayussss-aqui/blob/output/github-contribution-grid-snake.svg)
