@@ -21,7 +21,7 @@ Do it like a programmer. When everything is wrong and messed up, erase everythin
 
  
 #### 𝘚𝘵𝘶𝘥𝘺𝘪𝘯𝘨 𝘪𝘯 𝘵𝘩𝘪𝘴 𝘮𝘰𝘮𝘦𝘯𝘵
-![java](https://img.shields.io/badge/-javaSCRIPT-0D1117?style=for-the-badge&logo=JAVASCRIPT&logoColor=FFFF33&labelColor=0D1117)&nbsp;
+![java](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg)&nbsp;
 
 
 #### 𝘪 𝘢𝘮 𝘭𝘦𝘢𝘳𝘯𝘪𝘯𝘨
