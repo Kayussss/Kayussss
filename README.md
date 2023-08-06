@@ -21,8 +21,7 @@ Do it like a programmer. When everything is wrong and messed up, erase everythin
 
  
 #### 𝘚𝘵𝘶𝘥𝘺𝘪𝘯𝘨 𝘪𝘯 𝘵𝘩𝘪𝘴 𝘮𝘰𝘮𝘦𝘯𝘵
-![java](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg)&nbsp;
-
+<img align="center" alt="Rafa-Js" height="35" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
 
 #### 𝘪 𝘢𝘮 𝘭𝘦𝘢𝘳𝘯𝘪𝘯𝘨
 <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40"/> 
